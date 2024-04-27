@@ -1,5 +1,5 @@
 # Coffee-Quality-Analysis
-
+# Report link: https://drive.google.com/file/d/1ee2JeO6pF30-q49CxkLKayX4TFD_pof6/view?usp=sharing
 # Overview
 This project focuses on analyzing the quality of coffee using various sensory attributes and defect occurrences. The dataset used contains information about different coffee samples, including sensory attributes, defect occurrences, processing methods, origin regions, and total cup points, which represent the overall quality of the coffee.
 
