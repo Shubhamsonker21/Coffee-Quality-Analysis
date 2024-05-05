@@ -1,5 +1,5 @@
 # Coffee-Quality-Analysis
-# Report link: https://app.powerbi.com/groups/me/reports/f5d05e63-25a2-4c16-b472-4d65bfd98db7?ctid=919deca1-f97b-4835-92f7-98e9d9c78608&pbi_source=linkShare&bookmarkGuid=5339ecfa-8879-4db0-b316-d758ac93a6e1
+# Report link: https://drive.google.com/file/d/1f4LzMq55G1uUhsskYlmm03SRpN6sO7kN/view?usp=drive_link
 # Overview
 This project focuses on analyzing the quality of coffee using various sensory attributes and defect occurrences. The dataset contains information about different coffee samples, including sensory attributes, defect occurrences, processing methods, origin regions, and total cup points, which represent the overall quality of the coffee.
 
